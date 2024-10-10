@@ -1,3 +1,2 @@
 # git_test
-“Hello Odin!”
-vim test
+This repo is a test connection to github
